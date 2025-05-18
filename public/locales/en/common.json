@@ -1,0 +1,47 @@
+{
+  "player": {
+    "title": "Music Player",
+    "controls": {
+      "play": "Play",
+      "pause": "Pause",
+      "next": "Next",
+      "previous": "Previous",
+      "fastForward": "Fast Forward",
+      "rewind": "Rewind",
+      "volume": "Volume",
+      "mute": "Mute",
+      "unmute": "Unmute"
+    },
+    "playlists": {
+      "random": "Random Playlist",
+      "recommended": "Recommended Playlist"
+    },
+    "upload": {
+      "title": "Upload Music",
+      "selectFile": "Select File",
+      "predict": "Predict Music Type",
+      "result": "Prediction Result",
+      "error": "Upload Failed",
+      "pleaseSelect": "Please select an audio file first",
+      "uploading": "Uploading..."
+    },
+    "models": {
+      "title": "Select Model",
+      "alexnet": "AlexNet",
+      "resnet": "ResNet",
+      "transformer": "Transformer"
+    },
+    "time": {
+      "now": "Current",
+      "total": "Total Duration"
+    }
+  },
+  "api": {
+    "errors": {
+      "fetchFailed": "Fetch Failed",
+      "predictFailed": "Prediction Failed",
+      "recommendFailed": "Failed to Get Recommendations",
+      "randomFailed": "Failed to Get Random Music"
+    }
+  }
+}

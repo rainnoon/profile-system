@@ -1,0 +1,47 @@
+{
+  "title": "Employee Information",
+  "loading": "Loading...",
+  "retry": "Retry",
+  "edit": "Edit",
+  "save": "Save",
+  "saving": "Saving...",
+  "cancel": "Cancel",
+  "editProfile": "Edit Profile",
+  "personalInfo": "Personal Information",
+  "name": "Name",
+  "jobTitle": "Title",
+  "email": "Email",
+  "phone": "Phone",
+  "location": "Location",
+  "avatar": "Avatar",
+  "coverImage": "Cover Image",
+  "contactInfo": "Contact Information",
+  "employmentDetails": "Employment Details",
+  "department": "Department",
+  "joinDate": "Join Date",
+  "employeeId": "Employee ID",
+  "bio": "Biography",
+  "skills": "Skills",
+  "achievements": "Achievements",
+  "commaSeparated": "comma separated",
+  "onePerLine": "one per line",
+  "cover": "Cover",
+  "status": {
+    "label": "Status",
+    "active": "Active",
+    "inactive": "Inactive"
+  },
+  "departments": {
+    "technology": "Technology",
+    "marketing": "Marketing",
+    "hr": "Human Resources",
+    "finance": "Finance",
+    "product": "Product",
+    "design": "Design",
+    "operations": "Operations"
+  },
+  "error": {
+    "fetch": "Failed to fetch employee information",
+    "update": "Failed to update employee information"
+  }
+}

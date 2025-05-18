@@ -1,0 +1,15 @@
+export * from './types'
+export * from './ProfileHeader'
+export * from './AboutSection'
+export * from './ExperienceSection'
+export * from './EducationSection'
+export * from './SkillsSection'
+export * from './ProfileCard'
+export * from './TestimonialCard'
+
+// 对话框组件
+export * from './Dialog/PersonalInfoDialog'
+export * from './Dialog/AboutDialog'
+export * from './Dialog/ExperienceDialog'
+export * from './Dialog/EducationDialog'
+export * from './Dialog/SkillsDialog'

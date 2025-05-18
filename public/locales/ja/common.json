@@ -1,0 +1,47 @@
+{
+  "player": {
+    "title": "ミュージックプレーヤー",
+    "controls": {
+      "play": "再生",
+      "pause": "一時停止",
+      "next": "次へ",
+      "previous": "前へ",
+      "fastForward": "早送り",
+      "rewind": "巻き戻し",
+      "volume": "音量",
+      "mute": "ミュート",
+      "unmute": "ミュート解除"
+    },
+    "playlists": {
+      "random": "ランダムプレイリスト",
+      "recommended": "おすすめプレイリスト"
+    },
+    "upload": {
+      "title": "音楽をアップロード",
+      "selectFile": "ファイルを選択",
+      "predict": "音楽タイプを予測",
+      "result": "予測結果",
+      "error": "アップロード失敗",
+      "pleaseSelect": "最初に音声ファイルを選択してください",
+      "uploading": "アップロード中..."
+    },
+    "models": {
+      "title": "モデルを選択",
+      "alexnet": "AlexNet",
+      "resnet": "ResNet",
+      "transformer": "Transformer"
+    },
+    "time": {
+      "now": "現在",
+      "total": "合計時間"
+    }
+  },
+  "api": {
+    "errors": {
+      "fetchFailed": "取得に失敗しました",
+      "predictFailed": "予測に失敗しました",
+      "recommendFailed": "おすすめの取得に失敗しました",
+      "randomFailed": "ランダム音楽の取得に失敗しました"
+    }
+  }
+}

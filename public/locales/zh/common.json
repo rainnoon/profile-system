@@ -1,0 +1,47 @@
+{
+  "player": {
+    "title": "音乐播放器",
+    "controls": {
+      "play": "播放",
+      "pause": "暂停",
+      "next": "下一首",
+      "previous": "上一首",
+      "fastForward": "快进",
+      "rewind": "快退",
+      "volume": "音量",
+      "mute": "静音",
+      "unmute": "取消静音"
+    },
+    "playlists": {
+      "random": "随机播放列表",
+      "recommended": "推荐播放列表"
+    },
+    "upload": {
+      "title": "上传音乐",
+      "selectFile": "选择文件",
+      "predict": "预测音乐类型",
+      "result": "预测结果",
+      "error": "上传失败",
+      "pleaseSelect": "请先选择音频文件",
+      "uploading": "上传中..."
+    },
+    "models": {
+      "title": "选择模型",
+      "alexnet": "AlexNet",
+      "resnet": "ResNet",
+      "transformer": "Transformer"
+    },
+    "time": {
+      "now": "当前",
+      "total": "总时长"
+    }
+  },
+  "api": {
+    "errors": {
+      "fetchFailed": "获取失败",
+      "predictFailed": "预测失败",
+      "recommendFailed": "获取推荐失败",
+      "randomFailed": "获取随机音乐失败"
+    }
+  }
+}

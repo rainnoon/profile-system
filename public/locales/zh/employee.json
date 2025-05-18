@@ -1,0 +1,47 @@
+{
+  "title": "员工信息",
+  "loading": "加载中...",
+  "retry": "重试",
+  "edit": "编辑",
+  "save": "保存",
+  "saving": "保存中...",
+  "cancel": "取消",
+  "editProfile": "编辑个人资料",
+  "personalInfo": "个人信息",
+  "name": "姓名",
+  "jobTitle": "职位",
+  "email": "邮箱",
+  "phone": "电话",
+  "location": "地点",
+  "avatar": "头像",
+  "coverImage": "封面图",
+  "contactInfo": "联系信息",
+  "employmentDetails": "工作信息",
+  "department": "部门",
+  "joinDate": "入职日期",
+  "employeeId": "员工编号",
+  "bio": "个人简介",
+  "skills": "技能",
+  "achievements": "成就",
+  "commaSeparated": "用逗号分隔",
+  "onePerLine": "每行一项",
+  "cover": "封面",
+  "status": {
+    "label": "状态",
+    "active": "在职",
+    "inactive": "离职"
+  },
+  "departments": {
+    "technology": "技术部",
+    "marketing": "市场部",
+    "hr": "人力资源部",
+    "finance": "财务部",
+    "product": "产品部",
+    "design": "设计部",
+    "operations": "运营部"
+  },
+  "error": {
+    "fetch": "获取员工信息失败",
+    "update": "更新员工信息失败"
+  }
+}
