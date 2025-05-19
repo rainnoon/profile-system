@@ -161,18 +161,6 @@ export default function ProfilesPage() {
               ) : (
                 <div className="bg-white rounded-lg p-8 text-center text-gray-500">请选择一个简历查看</div>
               )}
-
-              {/* 相关评价 */}
-              <section className="mt-8">
-                <h2 className="text-2xl font-bold mb-4">相关评价</h2>
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                  {selectedTestimonials.length > 0 ? (
-                    selectedTestimonials.map((testimonial) => <TestimonialCard key={testimonial.id} testimonial={testimonial} />)
-                  ) : (
-                    <div className="col-span-3 py-10 text-center text-gray-500">暂无相关评价</div>
-                  )}
-                </div>
-              </section>
             </div>
           </div>
 
